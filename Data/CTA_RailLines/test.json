@@ -1,0 +1,45 @@
+{
+  "station": {
+    "station_id": [
+      {
+        "latitude": "41.943623",
+        "longitude": "-87.670907",
+        "station_name": "Paulina",
+        "images": {
+          "Title": "Transitions",
+          "Author": "Barbara Cooper",
+          "Material": "Mosaic: Hand-cut glass, Sculpture: Riveted brass and stainless-steel sheeting",
+          "year": "2009",
+          "funding": "arts in transit",
+          "Description": "Transitions comprises a suspended sculpture and a mosaic, which form an artistic dialogue. “Transitions is intended to mirror the fluid, ephemeral, high-energy cellular neighborhoods of the city and the connections and intersections between them, which public transportation facilitates…(it) references not only passage to different physical places, but also to other states of being and points in time.”",
+          "pics": {
+            "URL": [
+              "\"http://www.transitchicago.com/assets/1/public_art/paulina-2.jpg\"",
+              "\"http://www.transitchicago.com/assets/1/public_art/paulina-3.jpg\" ",
+              "\"http://www.transitchicago.com/assets/1/public_art/paulina-1.jpg\""
+            ]
+          }
+        }
+      },
+      {
+        "latitude": "41.943744",
+        "longitude": "-87.663619",
+        "station_name": "Southport",
+        "images": {
+          "Title": "Green (North Wall) and Yellow (South Wall)",
+          "Author": "Elizabeth Fraiberg",
+          "Material": "Transfer-printed glazed ceramic tile",
+          "year": "2009",
+          "funding": "Arts in Transit",
+          "Description": "The abstract imagery of these murals is derived from the artist’s own photographs of the neighborhood surrounding the Southport station, which she layered and transformed through digital collage. The yellow mural is meant to energize and inspire patrons on their commute into the Loop, while the green mural is intended to impart feelings of coolness and serenity as they return home. ",
+          "pics": {
+            "URL": [
+              "\"http://www.transitchicago.com/assets/1/public_art/southport-1.jpg\" ",
+              "\"http://www.transitchicago.com/assets/1/public_art/southport-2.jpg\" "
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

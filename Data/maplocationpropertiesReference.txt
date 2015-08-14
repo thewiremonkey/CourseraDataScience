@@ -1,0 +1,2 @@
+Map properties reference
+NYC: 40.7547259,-73.9484943

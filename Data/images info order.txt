@@ -1,0 +1,8 @@
+images
+0=url
+1=artist
+2=title
+3=material
+4=year
+5=caption
+6=funding

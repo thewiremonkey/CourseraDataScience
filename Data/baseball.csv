@@ -1,0 +1,749 @@
+season,league,region,team,abbr,number,first,last,suffix,full,cat,pos,acquire,salary,term,arbitration,former,new,,main,contrast
+2015,AL,East,Baltimore Orioles,BAL,16,Wei-Yin,Chen,,Wei-Yin Chen,pitcher,SP,FA,4750000,,,,,,#ed4c09,#000000
+2016,AL,East,Baltimore Orioles,BAL,50,Miguel,Gonzalez,,Miguel Gonzalez,pitcher,SP,FA,3275000,,,,,,#ed4c09,#000000
+2017,AL,East,Baltimore Orioles,BAL,31,Ubaldo,Jimenez,,Ubaldo Jimenez,pitcher,SP,FA,12250000,,,,,,#ed4c09,#000000
+2018,AL,East,Baltimore Orioles,BAL,25,Bud,Norris,,Bud Norris,pitcher,SP,TRADE,8800000,,,,,,#ed4c09,#000000
+2019,AL,East,Baltimore Orioles,BAL,30,Chris,Tillman,,Chris Tillman,pitcher,SP,TRADE,4315000,,,,,,#ed4c09,#000000
+2020,AL,East,Baltimore Orioles,BAL,35,Brad,Brach,,Brad Brach,pitcher,RP,TRADE,523000,,,,,,#ed4c09,#000000
+2021,AL,East,Baltimore Orioles,BAL,58,Cesar,Cabral,,Cesar Cabral,pitcher,RP,FA,338333,,,,,,#ed4c09,#000000
+2022,AL,East,Baltimore Orioles,BAL,29,Tommy,Hunter,,Tommy Hunter,pitcher,RP,FA,4650000,,,,,,#ed4c09,#000000
+2023,AL,East,Baltimore Orioles,BAL,17,Brian,Matusz,,Brian Matusz,pitcher,RP,DRAFT,3200000,,,,,,#ed4c09,#000000
+2024,AL,East,Baltimore Orioles,BAL,66,T.J.,McFarland,,T.J. McFarland,pitcher,RP,DRAFT,397049,,,,,,#ed4c09,#000000
+2025,AL,East,Baltimore Orioles,BAL,56,Darren,O'Day,,Darren O'Day,pitcher,RP,WAIVER,4250000,,,,,,#ed4c09,#000000
+2026,AL,East,Baltimore Orioles,BAL,65,Chaz,Roe,,Chaz Roe,pitcher,RP,FA,371612,,,,,,#ed4c09,#000000
+2027,AL,East,Baltimore Orioles,BAL,53,Zach,Britton,,Zach Britton,pitcher,RP/CL,DRAFT,3200000,,,,,,#ed4c09,#000000
+2028,AL,East,Baltimore Orioles,BAL,36,Caleb,Joseph,,Caleb Joseph,catcher,C,DRAFT,515000,,,,,,#ed4c09,#000000
+2029,AL,East,Baltimore Orioles,BAL,32,Matt,Wieters,,Matt Wieters,catcher,C,DRAFT,8300000,,,,,,#ed4c09,#000000
+2030,AL,East,Baltimore Orioles,BAL,19,Chris,Davis,,Chris Davis,infield,1B,TRADE,12000000,,,,,,#ed4c09,#000000
+2031,AL,East,Baltimore Orioles,BAL,3,Ryan,Flaherty,,Ryan Flaherty,infield,3B,DRAFT,1075000,,,,,,#ed4c09,#000000
+2032,AL,East,Baltimore Orioles,BAL,2,J.J.,Hardy,,J.J. Hardy,infield,SS,TRADE,"11,500,000",,,,,,#ed4c09,#000000
+2033,AL,East,Baltimore Orioles,BAL,13,Manny,Machado,,Manny Machado,infield,3B,DRAFT,548000,,,,,,#ed4c09,#000000
+2034,AL,East,Baltimore Orioles,BAL,38,Jimmy,Paredes,,Jimmy Paredes,infield,SS,PURCH,515000,,,,,,#ed4c09,#000000
+2035,AL,East,Baltimore Orioles,BAL,10,Adam,Jones,,Adam Jones,outfield,CF,TRADE,13333333,,,,,,#ed4c09,#000000
+2036,AL,East,Baltimore Orioles,BAL, 9,David,Lough,,David Lough,outfield,RF,TRADE,525500,,,,,,#ed4c09,#000000
+2037,AL,East,Baltimore Orioles,BAL,28,Steve,Pearce,,Steve Pearce,outfield,DH,FA,3700000,,,,,,#ed4c09,#000000
+2038,AL,East,Baltimore Orioles,BAL,23,Travis,Snider,,Travis Snider,outfield,RF,TRADE,2100000,,,,,,#ed4c09,#000000
+2039,AL,East,Baltimore Orioles,BAL,27,Delmon,Young,,Delmon Young,outfield,LF,FA,2250000,,,,,,#ed4c09,#000000
+2015,AL,East,Boston Red Sox,BOS,11,Clay,Buchholz,,Clay Buchholz,pitcher,SP,DRAFT,12250000,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,56,Joe,Kelly,,Joe Kelly,pitcher,SP,TRADE,603000,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,20,Wade,Miley,,Wade Miley,pitcher,SP,TRADE,3666666,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,22,Rick,Porcello,,Rick Porcello,pitcher,SP,TRADE,12500000,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,52,Eduardo,Rodriguez,,Eduardo Rodriguez,pitcher,RP,TRADE,360519,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,35,Steven,Wright,,Steven Wright,pitcher,RP,TRADE,429601,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,68,Matt,Barnes,,Matt Barnes,pitcher,SP,DRAFT,414024,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,32,Craig,Breslow,,Craig Breslow,pitcher,RP,FA,2000000,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,59,Tommy,Layne,,Tommy Layne,pitcher,RP,FA,508300,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,41,Alexi,Ogando,,Alexi Ogando,pitcher,RP,FA,1500000,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,36,Junichi,Tazawa,,Junichi Tazawa,pitcher,RP,FA,2250000,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,19,Koji,Uehara,,Koji Uehara,pitcher,CL,FA,9000000,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,3,Sandy,Leon,,Sandy Leon,catcher,C,PURCH,510400,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,23,Blake,Swihart,,Blake Swihart,catcher,C,DRAFT,432622,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,16,Jeff,Bianchi,,Jeff Bianchi,infield,2B,FA,371612,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS, 2,Xander,Bogaerts,,Xander Bogaerts,infield,SS,FA,543000,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,26,Brock,Holt,,Brock Holt,infield,2B,TRADE,530500,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,12,Mike,Napoli,,Mike Napoli,infield,1B,FA,16000000,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,15,Dustin,Pedroia,,Dustin Pedroia,infield,2B,DRAFT,12625000,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,48,Pablo,Sandoval,,Pablo Sandoval,infield,3B,FA,17600000,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,50,Mookie,Betts,,Mookie Betts,outfield,CF,DRAFT,514500,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,38,Rusney,Castillo,,Rusney Castillo,outfield,LF,FA,11271428,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,31,Alejandro,De Aza,,Alejandro De Aza,outfield,LF,TRADE,3415300,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,13,Hanley,Ramirez,,Hanley Ramirez,outfield,LF,FA,19750000,,,,,,#C60C30,#002244
+2015,AL,East,Boston Red Sox,BOS,34,David,Ortiz,,David Ortiz,designated hitter,DH,FA,16000000,,,,,,#C60C30,#002244
+2015,AL,East,New York Yankees,NYY,30,Nathan,Eovaldi,,Nathan Eovaldi,pitcher,SP,TRADE,3300000,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,35,Michael,Pineda,,Michael Pineda,pitcher,SP,TRADE,2100000,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,52,C.C.,Sabathia,,C.C. Sabathia,pitcher,SP,FA,23000000,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,19,Masahiro,Tanaka,,Masahiro Tanaka,pitcher,SP,FA,22000000,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,43,Adam,Warren,,Adam Warren,pitcher,SP,DRAFT,572600,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,68,Dellin,Betances,,Dellin Betances,pitcher,RP/CL,DRAFT,507500,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,26,Chris,Capuano,,Chris Capuano,pitcher,SP,PURCHASE,5000000,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,64,Jacob,Lindgren,,Jacob Lindgren,pitcher,RP,DRAFT,371612,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,53,Esmil,Rogers,,Esmil Rogers,pitcher,RP,WAIVER,1480000,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,45,Chasen,Shreve,,Chasen Shreve,pitcher,RP,TRADE,479602,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,41,Justin,Wilson,,Justin Wilson,pitcher,RP,TRADE,556000,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,48,Andrew,Miller,,Andrew Miller,pitcher,RP,FA,9000000,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,34,Brian,McCann,,Brian McCann,catcher,C,FA,17000000,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,66,John Ryan,Murphy,,John Ryan Murphy,catcher,C,DRAFT,518700,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,14,Stephen,Drew,,Stephen Drew,infield,2B,FA,5000000,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,18,Didi,Gregorius,,Didi Gregorius,infield,SS,TRADE,553900,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,12,Chase,Headley,,Chase Headley,infield,3B,TRADE,13000000,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,33,Garrett,Jones,,Garrett Jones,infield,1B,TRADE,5000000,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,38,Jose,Pirela,,Jose Pirela,infield,2B,FA,510000,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,25,Mark,Teixeira,,Mark Teixeira,infield,1B,FA,23125000,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,36,Carlos,Beltran,,Carlos Beltran,outfield,RF,FA,15000000,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,31,Ramon,Flores,,Ramon Flores,outfield,LF,FA,354972,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,11,Brett,Gardner,,Brett Gardner,outfield,LF,DRAFT,12500000,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,24,Chris,Young,,Chris Young,outfield,CF,FA,2500000,,,,,,#1C2841, #808080 
+2015,AL,East,New York Yankees,NYY,13,Alex,Rodriguez,,Alex Rodriguez,designated hitter,DH,TRADE,21000000,,,,,,#1C2841, #808080 
+2015,AL,East,Tampa Bay Rays,TB,22,Chris,Archer,,Chris Archer,pitcher,SP,TRADE,1166666,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,37,Alex,Colome,,Alex Colome,pitcher,RP,FA,510800,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,51,Nathan,Karns,,Nate Karns,pitcher,SP,TRADE,508800,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,23,Jake,Odorizzi,,Jake Odorizzi,pitcher,SP,TRADE,522000,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,30,Erasmo,Ramirez,,Erasmo Ramirez,pitcher,RP,TRADE,522800,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,31,Xavier,Cedeno,,Xavier Cedeno,pitcher,RP,PURCHASE,448762,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,54,Steve,Geltz,,Steve Geltz,pitcher,RP,TRADE,508900,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,47,Brandon,Gomes,,Brandon Gomes,pitcher,RP,TRADE,468674,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,40,Kevin,Jepsen,,Kevin Jepsen,pitcher,RP,TRADE,3025000,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,57,Jake,McGee,,Jake McGee,pitcher,RP,DRAFT,3550000,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,45,Enny,Romero,,Enny Romero,pitcher,SP,FA,338333,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,26,Brad,Boxberger,,Brad Boxberger,pitcher,RP/CL,TRADE,521400,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,44,Rene,Rivera,,Rene Rivera,catcher,C,TRADE,1200000,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,46,Bobby,Wilson,,Bobby Wilson,catcher,C,FA,700000,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,13,Asdrubal,Cabrera,,Asdrubal Cabrera,infield,SS,FA,7500000,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,10,Jake,Elmore,,Jake Elmore,infield,2B,FA,415983,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,11,Logan,Forsythe,,Logan Forsythe,infield,2B,TRADE,1100000,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,2,Nick,Franklin,,Nick Franklin,infield,SS,TRADE,510900,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB, 3,Evan,Longoria,,Evan Longoria,infield,3B,DRAFT,11000000,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB, 9,Joey,Butler,,Joey Butler,outfield,LF,FA,427076,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB, 7,David,DeJesus,,David DeJesus,outfield,LF,TRADE,5125000,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB, 5,Brandon,Guyer,,Brandon Guyer,outfield,LF,TRADE,515800,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,39,Kevin,Kiermaier,,Kevin Kiermaier,outfield,CF,DRAFT,513800,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,27,Mikie,Mahtook,,Mikie Mahtook,outfield,LF,DRAFT,368838,,,,,,#00285D,#ffd700
+2015,AL,East,Tampa Bay Rays,TB,20,Steven,Souza,,Steven Souza,outfield,RF,TRADE,508700,,,,,,#00285D,#ffd700
+2015,AL,East,Toronto Blue Jays,TOR,56,Mark,Buehrle,,Mark Buehrle,pitcher,SP,TRADE,20000000,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,43,R.A.,Dickey,,R.A. Dickey,pitcher,SP,TRADE,12000000,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,25,Marco,Estrada,,Marco Estrada,pitcher,RP,TRADE,3900000,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,36,Drew,Hutchison,,Drew Hutchison,pitcher,SP,DRAFT,520100,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,41,Aaron,Sanchez,,Aaron Sanchez,pitcher,SP,DRAFT,510800,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,50,Steve,Delabar,,Steve Delabar,pitcher,RP,TRADE,424303,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,31,Liam,Hendriks,,Liam Hendriks,pitcher,RP,WAIVER,518400,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,62,Aaron,Loup,,Aaron Loup,pitcher,RP,DRAFT,527500,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,54,Roberto,Osuna,,Roberto Osuna,pitcher,RP,FA,507500,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,47,Bo,Schultz,,Bo Schultz,pitcher,RP,WAIVER,354972,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,52,Ryan,Tepera,,Ryan Tepera,pitcher,RP,DRAFT,413210,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,27,Brett,Cecil,,Brett Cecil,pitcher,RP/CL,DRAFT,2475000,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,55,Russell,Martin,,Russell Martin,catcher,C,FA,7000000,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,30,Dioner,Navarro,,Dioner Navarro,catcher,DH,FA,5000000,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,15,Chris,Colabello,,Chris Colabello,infield,1B,WAIVER,421530,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,20,Josh,Donaldson,,Josh Donaldson,infield,3B,TRADE,4300000,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,10,Edwin,Encarnacion,,Edwin Encarnacion,infield,1B,FA,10000000,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,17,Ryan,Goins,,Ryan Goins,infield,2B,DRAFT,479173,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,66,Munenori,Kawasaki,,Munenori Kawasaki,infield,SS,FA,360519,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR, 7,Jose,Reyes,,Jose Reyes,infield,SS,TRADE,22000000,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,14,Justin,Smoak,,Justin Smoak,infield,1B,WAIVER,1000000,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,23,Danny,Valencia,,Danny Valencia,infield,3B,TRADE,1675000,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,19,Jose,Bautista,,Jose Bautista,outfield,RF,TRADE,14000000,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,3,Ezequiel,Carrera,,Ezequiel Carrera,outfield,CF,FA,432622,,,,,,#003DA5,#DA291C
+2015,AL,East,Toronto Blue Jays,TOR,11,Kevin,Pillar,,Kevin Pillar,outfield,LF,DRAFT,512000,,,,,,#003DA5,#DA291C
+2015,AL,Central,Chicago White Sox,CWS,50,John,Danks,,John Danks,pitcher,SP,TRADE,15750000,,,,,,#000000, #C0C0C0 
+2015,AL,Central,Chicago White Sox,CWS,62,Jose,Quintana,,Jose Quintana,pitcher,SP,FA,3400000,,,,,,#000001, #C0C0C1
+2015,AL,Central,Chicago White Sox,CWS,55,Carlos,Rodon,,Carlos Rodon,pitcher,RP,DRAFT,463128,,,,,,#000002, #C0C0C2
+2015,AL,Central,Chicago White Sox,CWS,49,Chris,Sale,,Chris Sale,pitcher,SP,DRAFT,6000000,,,,,,#000003, #C0C0C3
+2015,AL,Central,Chicago White Sox,CWS,29,Jeff,Samardzija,,Jeff Samardzija,pitcher,SP,TRADE,9800000,,,,,,#000004, #C0C0C4
+2015,AL,Central,Chicago White Sox,CWS,33,Zach,Duke,,Zach Duke,pitcher,RP,FA,4500000,,,,,,#000005, #C0C0C5
+2015,AL,Central,Chicago White Sox,CWS,63,Junior,Guerra,,Javy Guerra,pitcher,RP,WAIVER,"937,500",,,,,,#000006, #C0C0C6
+2015,AL,Central,Chicago White Sox,CWS,48,Hector,Noesi,,Hector Noesi,pitcher,SP,WAIVER,1950000,,,,,,#000007, #C0C0C7
+2015,AL,Central,Chicago White Sox,CWS,52,Jake,Petricka,,Jake Petricka,pitcher,CL,DRAFT,520000,,,,,,#000008, #C0C0C8
+2015,AL,Central,Chicago White Sox,CWS,57,Zach,Putnam,,Zach Putnam,pitcher,RP,FA,525000,,,,,,#000009, #C0C0C9
+2015,AL,Central,Chicago White Sox,CWS,40,Daniel,Webb,,Daniel Webb,pitcher,RP,TRADE,357745,,,,,,#000010, #C0C0C10
+2015,AL,Central,Chicago White Sox,CWS,30,David,Robertson,,David Robertson,pitcher,RP/CL,FA,10000000,,,,,,#000011, #C0C0C11
+2015,AL,Central,Chicago White Sox,CWS,21,Tyler,Flowers,,Tyler Flowers,catcher,C,TRADE,2675000,,,,,,#000012, #C0C0C12
+2015,AL,Central,Chicago White Sox,CWS,58,Geovany,Soto,,Geovany Soto,catcher,C,FA,1500000,,,,,,#000013, #C0C0C13
+2015,AL,Central,Chicago White Sox,CWS,79,Jose,Abreu,,Jose Abreu,infield,1B,FA,8666666,,,,,,#000014, #C0C0C14
+2015,AL,Central,Chicago White Sox,CWS,15,Gordon,Beckham,,Gordon Beckham,infield,2B,FA,2000000,,,,,,#000015, #C0C0C15
+2015,AL,Central,Chicago White Sox,CWS,64,Emilio,Bonifacio,,Emilio Bonifacio,infield,CF,FA,3000000,,,,,,#000016, #C0C0C16
+2015,AL,Central,Chicago White Sox,CWS,12,Conor,Gillaspie,,Conor Gillaspie,infield,3B,TRADE,550000,,,,,,#000017, #C0C0C17
+2015,AL,Central,Chicago White Sox,CWS,10,Alexei,Ramirez,,Alexei Ramirez,infield,SS,FA,10000000,,,,,,#000018, #C0C0C18
+2015,AL,Central,Chicago White Sox,CWS, 5,Carlos,Sanchez,,Carlos Sanchez,infield,2B,FA,418032,,,,,,#000019, #C0C0C19
+2015,AL,Central,Chicago White Sox,CWS,53,Melky,Cabrera,,Melky Cabrera,outfield,LF,FA,13000000,,,,,,#000020, #C0C0C20
+2015,AL,Central,Chicago White Sox,CWS, 1,Adam,Eaton,,Adam Eaton,outfield,CF,TRADE,850000,,,,,,#000021, #C0C0C21
+2015,AL,Central,Chicago White Sox,CWS,26,Avisail,Garcia,,Avisail Garcia,outfield,RF,TRADE,523000,,,,,,#000022, #C0C0C22
+2015,AL,Central,Chicago White Sox,CWS,20,J.B.,Shuck,,J.B. Shuck,outfield,LF,WAIVER,516000,,,,,,#000023, #C0C0C23
+2015,AL,Central,Chicago White Sox,CWS,25,Adam,LaRoche,,Adam LaRoche,designated hitter,DH,FA,12000000,,,,,,#000024, #C0C0C24
+2015,AL,Central,Cleveland Indians,CLE,47,Trevor,Bauer,,Trevor Bauer,pitcher,SP,TRADE,1940000,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE,59,Carlos,Carrasco,,Carlos Carrasco,pitcher,SP,TRADE,2337000,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE,28,Corey,Kluber,,Corey Kluber,pitcher,SP,TRADE,1200000,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE,38,Shaun,Marcum,,Shaun Marcum,pitcher,SP,FA,972677,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE,31,Danny,Salazar,,Danny Salazar,pitcher,SP,FA,468674,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE,49,Austin,Adams,,Austin Adams,pitcher,RP,DRAFT,385630,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE,50,Nick,Hagadone,,Nick Hagadone,pitcher,RP,TRADE,517100,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE,34,Zach,McAllister,,Zach McAllister,pitcher,SP,TRADE,520400,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE,35,Marc,Rzepczynski,,Marc Rzepczynski,pitcher,RP,TRADE,2400000,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE,27,Bryan,Shaw,,Bryan Shaw,pitcher,RP,TRADE,1550000,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE,54,Ryan,Webb,,Ryan Webb,pitcher,RP,FA,438169,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE,37,Cody,Allen,,Cody Allen,pitcher,RP/CL,DRAFT,547100,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE,10,Yan,Gomes,,Yan Gomes,catcher,C,TRADE,1083333,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE,55,Roberto,Perez,,Roberto Perez,catcher,C,DRAFT,508600,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE, 4,Mike,Aviles,,Mike Aviles,infield,3B,TRADE,3500000,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE,22,Jason,Kipnis,,Jason Kipnis,infield,2B,DRAFT,4166666,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE,41,Carlos,Santana,,Carlos Santana,infield,1B,TRADE,6200000,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE,24,Michael,Bourn,,Michael Bourn,outfield,CF,FA,13500000,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE,23,Michael,Brantley,,Michael Brantley,outfield,LF,TRADE,5875000,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE,44,Brandon,Moss,,Brandon Moss,outfield,RF,TRADE,6500000,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE, 7,David,Murphy,,David Murphy,outfield,DH,FA,6000000,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE, 9,Ryan,Raburn,,Ryan Raburn,outfield,RF,FA,2500000,,,,,,#003366,#d30335
+2015,AL,Central,Cleveland Indians,CLE,33,Nick,Swisher,,Nick Swisher,outfield,DH,FA,15000000,,,,,,#003366,#d30335
+2015,AL,Central,Detroit Tigers,DET,61,Shane,Greene,,Shane Greene,pitcher,SP,TRADE,515000,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,14,David,Price,,David Price,pitcher,SP,TRADE,19750000,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,56,Kyle,Ryan,,Kyle Ryan,pitcher,SP,DRAFT,363292,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,19,Anibal,Sanchez,,Anibal Sanchez,pitcher,SP,TRADE,16800000,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,31,Alfredo,Simon,,Alfredo Simon,pitcher,SP,TRADE,5500000,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,62,Al,Alburquerque,,Al Alburquerque,pitcher,RP,FA,1725000,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,44,Joba,Chamberlain,,Joba Chamberlain,pitcher,RP,FA,1000000,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,32,Tom,Gorzelanny,,Tom Gorzelanny,pitcher,RP,FA,1000000,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,65,Blaine,Hardy,,Blaine Hardy,pitcher,RP,FA,508382,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,60,Angel,Nesbitt,,Angel Nesbitt,pitcher,RP,FA,507500,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,30,Alex,Wilson,,Alex Wilson,pitcher,SP,TRADE,454808,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,38,Joakim,Soria,,Joakim Soria,pitcher,RP,TRADE,7000000,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,50,Bryan,Holaday,,Bryan Holaday,catcher,C,DRAFT,410437,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,34,James,McCann,,James McCann,catcher,C,DRAFT,507500,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,24,Miguel,Cabrera,,Miguel Cabrera,infield,1B,TRADE,22000000,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET, 9,Nick,Castellanos,,Nick Castellanos,infield,3B,DRAFT,525000,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET, 1,Jose,Iglesias,,Jose Iglesias,infield,SS,TRADE,1443750,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET, 3,Ian,Kinsler,,Ian Kinsler,infield,2B,TRADE,16000000,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,27,Andrew,Romine,,Andrew Romine,infield,SS,TRADE,520000,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,39,Josh,Wilson,,Josh Wilson,infield,2B,FA,346653,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,52,Yoenis,Cespedes,,Yoenis Cespedes,outfield,LF,TRADE,10500000,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,18,Tyler,Collins,,Tyler Collins,outfield,LF,DRAFT,382704,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,20,Rajai,Davis,,Rajai Davis,outfield,LF,FA,5000000,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,12,Anthony,Gose,,Anthony Gose,outfield,CF,TRADE,515000,,,,,,#001742,#DE4406
+2015,AL,Central,Detroit Tigers,DET,28,J.D.,Martinez,,J.D. Martinez,outfield,RF,FA,3000000,,,,,,#001742,#DE4406
+2015,AL,Central,Kansas City Royals,KC,11,Jeremy,Guthrie,,Jeremy Guthrie,pitcher,SP,TRADE,9000000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC,51,Jason,Vargas,,Jason Vargas,pitcher,SP,FA,8500000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC,30,Yordano,Ventura,,Yordano Ventura,pitcher,SP,FA,950000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC,36,Edinson,Volquez,,Edinson Volquez,pitcher,SP,FA,7500000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC,32,Chris,Young,,Chris Young,pitcher,RP,FA,675000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC,49,Joe,Blanton,,Joe Blanton,pitcher,SP,FA,1000000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC,17,Wade,Davis,,Wade Davis,pitcher,RP,TRADE,7000000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC,54,Jason,Frasor,,Jason Frasor,pitcher,RP,TRADE,1250000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC,40,Kelvin,Herrera,,Kelvin Herrera,pitcher,RP,FA,1600000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC,44,Luke,Hochevar,,Luke Hochevar,pitcher,RP,FA,4000000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC,46,Ryan,Madson,,Ryan Madson,pitcher,RP,FA,850000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC,47,Franklin,Morales,,Franklin Morales,pitcher,RP,FA,1850000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC,56,Greg,Holland,,Greg Holland,pitcher,RP/CL,DRAFT,8250000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC,9,Drew,Butera,,Drew Butera,catcher,C,TRADE,809426,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC,13,Salvador,Perez,,Salvador Perez,catcher,C,FA,1750000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC,24,Christian,Colon,,Christian Colon,infield,SS,DRAFT,509525,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC, 2,Alcides,Escobar,,Alcides Escobar,infield,SS,TRADE,3000000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC,35,Eric,Hosmer,,Eric Hosmer,infield,1B,DRAFT,5650000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC,14,Omar,Infante,,Omar Infante,infield,2B,FA,7500000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC,25,Kendrys,Morales,,Kendrys Morales,infield,DH,FA,6500000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC, 8,Mike,Moustakas,,Mike Moustakas,infield,3B,DRAFT,2640000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC, 6,Lorenzo,Cain,,Lorenzo Cain,outfield,CF,TRADE,2725000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC, 1,Jarrod,Dyson,,Jarrod Dyson,outfield,CF,DRAFT,1225000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC, 4,Alex,Gordon,,Alex Gordon,outfield,LF,DRAFT,14000000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Kansas City Royals,KC,15,Alex,Rios,,Alex Rios,outfield,RF,FA,9500000,,,,,,#15317E,#74B4FA
+2015,AL,Central,Minnesota Twins,MIN,44,Kyle,Gibson,,Kyle Gibson,pitcher,SP,TRADE,537500,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,45,Phil,Hughes,,Phil Hughes,pitcher,SP,FA,9200000,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,65,Trevor,May,,Trevor May,pitcher,SP,FA,493278,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,33,Tom,Milone,,Tom Milone,pitcher,SP,FA,2775000,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,37,Mike,Pelfrey,,Mike Pelfrey,pitcher,SP,FA,5500000,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,36,Blaine,Boyer,,Blaine Boyer,pitcher,RP,FA,750000,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,52,Brian,Duensing,,Brian Duensing,pitcher,RP,TRADE,2700000,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,50,Casey,Fien,,Casey Fien,pitcher,RP,TRADE,1375000,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,62,J.R.,Graham,,J.R. Graham,pitcher,RP,FA,507500,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,57,Ryan,Pressly,,Ryan Pressly,pitcher,RP,FA,436885,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,22,Tim,Stauffer,,Tim Stauffer,pitcher,RP,FA,2200000,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,64,Aaron,Thompson,,Aaron Thompson,pitcher,RP,FA,520000,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,15,Glen,Perkins,,Glen Perkins,pitcher,RP/CL,DRAFT,4650000,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,12,Chris,Herrmann,,Chris Herrmann,infield,C,TRADE,510000,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN, 8,Kurt,Suzuki,,Kurt Suzuki,infield,C,FA,6000000,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,2,Brian,Dozier,,Brian Dozier,infield,2B,DRAFT,2000000,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN, 5,Eduardo,Escobar,,Eduardo Escobar,infield,SS,TRADE,532500,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN, 7,Joe,Mauer,,Joe Mauer,infield,1B,DRAFT,23000000,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN, 9,Eduardo,Nunez,,Eduardo Nunez,infield,LF,FA,1025000,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,24,Trevor,Plouffe,,Trevor Plouffe,infield,3B,FA,4800000,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,19,Kennys,Vargas,,Kennys Vargas,infield,DH,DRAFT,"460,942",,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,32,Aaron,Hicks,,Aaron Hicks,outfield,CF,TRADE,408060,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,48,Torii,Hunter,,Torii Hunter,outfield,RF,DRAFT,10500000,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,21,Shane,Robinson,,Shane Robinson,outfield,CF,DRAFT,550000,,,,,,#072754,#C6011F
+2015,AL,Central,Minnesota Twins,MIN,20,Eddie,Rosario,,Eddie Rosario,outfield,CF,FA,424303,,,,,,#072754,#C6011F
+2015,AL,West,Houston Astros,HOU,60,Dallas,Keuchel,,Dallas Keuchel,pitcher,SP,DRAFT,524500,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU,43,Lance,McCullers,Jr.,Lance McCullers,pitcher,RP,DRAFT,385478,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU,31,Collin,McHugh,,Collin McHugh,pitcher,SP,WAIVER,516300,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU,39,Brett,Oberholtzer,,Brett Oberholtzer,pitcher,SP,TRADE,515800,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU,35,Josh,Fields,,Josh Fields,pitcher,RP,Rule 5DRAFT,516700,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU,36,Will,Harris,,Will Harris,pitcher,RP,WAIVER,513900,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU,56,Roberto,Hernandez,,Roberto Hernandez,pitcher,SP,FA,2650000,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU,37,Pat,Neshek,,Pat Neshek,pitcher,RP,FA,5500000,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU,50,Chad,Qualls,,Chad Qualls,pitcher,RP,FA,3000000,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU,29,Tony,Sipp,,Tony Sipp,pitcher,RP,FA,2400000,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU,54,Joe,Thatcher,,Joe Thatcher,pitcher,RP,FA,1000000,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU,44,Luke,Gregerson,,Luke Gregerson,pitcher,RP/CL,FA,6000000,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU,15,Jason,Castro,,Jason Castro,catcher,C,DRAFT,4000000,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU,16,Hank,Conger,,Hank Conger,catcher,C,TRADE,1075000,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU,27,Jose,Altuve,,Jose Altuve,infield,2B,FA,2687500,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU,23,Chris,Carter,,Chris Carter,infield,1B,TRADE,4175000,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU, 1,Carlos,Correa,,Carlos Correa,infield,SS,0,330013,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU, 9,Marwin,Gonzalez,,Marwin Gonzalez,infield,SS,TRADE,1062500,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU,18,Luis,Valbuena,,Luis Valbuena,infield,3B,TRADE,4200000,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU, 2,Jonathan,Villar,,Jonathan Villar,infield,SS,TRADE,496180,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU,11,Evan,Gattis,,Evan Gattis,outfield,DH,TRADE,526500,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU, 6,Jake,Marisnick,,Jake Marisnick,outfield,CF,TRADE,511200,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU,28,Colby,Rasmus,,Colby Rasmus,outfield,LF,FA,8000000,,,,,,#072854,#FF7F00
+2015,AL,West,Houston Astros,HOU, 4,George,Springer,,George Springer,outfield,RF,DRAFT,512900,,,,,,#072854,#FF7F00
+,,West,Houston Astros,HOU,20,Preston,Tucker,,Preston Tucker,outfield,RF,DRAFT,415983,,,,,,#072854,#FF7F00
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,43,Garrett,Richards,,Garrett Richards,pitcher,SP,DRAFT,3200000,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,53,Hector,Santiago,,Hector Santiago,pitcher,SP,TRADE,2290000,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,52,Matt,Shoemaker,,Matt Shoemaker,pitcher,SP,FA,517500,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,36,Jered,Weaver,,Jered Weaver,pitcher,SP,DRAFT,18200000,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,33,C.J.,Wilson,,C.J. Wilson,pitcher,SP,FA,18500000,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,48,Jose,Alvarez,,Jose Alvarez,pitcher,RP,TRADE,509500,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,68,Cam,Bedrosian,,Cam Bedrosian,pitcher,RP,DRAFT,393797,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,37,Cesar,Ramos,,Cesar Ramos,pitcher,RP,TRADE,1312000,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,51,Drew,Rucinski,,Drew Rucinski,pitcher,RP,FA,360519,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,59,Fernando,Salas,,Fernando Salas,pitcher,RP,TRADE,1370000,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,38,Joe,Smith,,Joe Smith,pitcher,RP,FA,5250000,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,16,Huston,Street,,Huston Street,pitcher,RP/CL,TRADE,7000000,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,17,Chris,Iannetta,,Chris Iannetta,catcher,C,TRADE,5525000,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,58,Carlos,Perez,,Carlos Perez,catcher,C,TRADE,424303,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA, 2,Erick,Aybar,,Erick Aybar,infield,SS,FA,8750000,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,24,C.J.,Cron,,C.J. Cron,infield,DH,DRAFT,484494,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA, 8,Taylor,Featherston,,Taylor Featherston,infield,2B,PURCHASE,507500,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA, 6,David,Freese,,David Freese,infield,3B,TRADE,6425000,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,12,Johnny,Giavotella,,Johnny Giavotella,infield,2B,TRADE,516250,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,19,Efren,Navarro,,Efren Navarro,infield,1B,DRAFT,"485,868",,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA, 5,Albert,Pujols,,Albert Pujols,infield,1B,FA,24000000,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,56,Kole,Calhoun,,Kole Calhoun,outfield,RF,DRAFT,537500,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,20,Matthew,Joyce,,Matt Joyce,outfield,LF,TRADE,4750000,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,22,Kirk,Nieuwenhuis,,Kirk Nieuwenhuis,outfield,LF,PURCHASE,367503,,,,,,#B71234,#002244
+2015,AL,West,Los Angeles Angels of Anaheim,LAA,27,Mike,Trout,,Mike Trout,outfield,CF,DRAFT,6083333,,,,,,#B71234,#002244
+2015,AL,West,Oakland Athletics,OAK,30,Jesse,Chavez,,Jesse Chavez,pitcher,RP,PURCHASE,2150000,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,31,Kendall,Graveman,,Kendall Graveman,pitcher,SP,TRADE,435396,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,54,Sonny,Gray,,Sonny Gray,pitcher,SP,DRAFT,512500,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,32,Jesse,Hahn,,Jesse Hahn,pitcher,SP,TRADE,507500,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,26,Scott,Kazmir,,Scott Kazmir,pitcher,SP,FA,13000000,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,56,Fernando,Abad,,Fernando Abad,pitcher,RP,TRADE,1087500,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,39,Eric,O'Flaherty,,Eric O'Flaherty,pitcher,RP,FA,5500000,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,13,Drew,Pomeranz,,Drew Pomeranz,pitcher,SP,TRADE,517500,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,33,Fernando,Rodriguez,,Fernando Rodriguez,pitcher,RP,TRADE,520491,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,58,Evan,Scribner,,Evan Scribner,pitcher,RP,WAIVER,512500,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,29,Pat,Venditte,,Pat Venditte,pitcher,SP,FA,383333,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,36,Tyler,Clippard,,Tyler Clippard,pitcher,RP/CL,TRADE,8300000,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,19,Josh,Phegley,,Josh Phegley,catcher,C,TRADE,510000,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,21,Stephen,Vogt,,Stephen Vogt,catcher,C,Conditional Deal,512500,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,15,Brett,Lawrie,,Brett Lawrie,infield,3B,TRADE,1925000,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,50,Max,Muncy,,Max Muncy,infield,1B,DRAFT,449262,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,12,Andy,Parrino,,Andy Parrino,infield,3B,WAIVER,377158,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,10,Marcus,Semien,,Marcus Semien,infield,3B,TRADE,510000,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,28,Eric,Sogard,,Eric Sogard,infield,2B,TRADE,1075000,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,18,Ben,Zobrist,,Ben Zobrist,infield,RF,TRADE,7500000,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK, 1,Billy,Burns,,Billy Burns,outfield,CF,TRADE,432622,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,20,Mark,Canha,,Mark Canha,outfield,1B,TRADE,507500,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,23,Sam,Fuld,,Sam Fuld,outfield,CF,FA,1750000,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,22,Josh,Reddick,,Josh Reddick,outfield,RF,TRADE,4100000,,,,,,#003831,#FFD800
+2015,AL,West,Oakland Athletics,OAK,16,Billy,Butler,,Billy Butler,designated hitter,DH,FA,6666666,,,,,,#003831,#FFD800
+2015,AL,West,Seattle Mariners,SEA,29,Roenis,Elias,,Roenis Elias,pitcher,SP,PURCHASE,446489,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA,33,J.A.,Happ,,J.A. Happ,pitcher,SP,TRADE,6700000,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA,34,Felix,Hernandez,,Felix Hernandez,pitcher,SP,DRAFT,24857142,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA,37,Mike,Montgomery,,Mike Montgomery,pitcher,SP,TRADE,346653,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA,32,Taijuan,Walker,,Taijuan Walker,pitcher,SP,FA,513100,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA,97,Joe,Beimel,,Joe Beimel,pitcher,RP,TRADE,501639,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA,41,Charlie,Furbush,,Charlie Furbush,pitcher,RP,FA,1300000,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA,57,Mark,Lowe,,Mark Lowe,pitcher,RP,TRADE,0,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA,38,Vidal,Nuno,,Vidal Nuno,pitcher,SP,TRADE,348961,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA,39,Carson,Smith,,Carson Smith,pitcher,RP,WAIVER,509500,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA,54,Tom,Wilhelmsen,,Tom Wilhelmsen,pitcher,RP,FA,1400000,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA,56,Fernando,Rodney,,Fernando Rodney,pitcher,RP/CL,TRADE,7000000,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA, 2,Jesus,Sucre,,Jesus Sucre,catcher,C,TRADE,467554,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA, 3,Mike,Zunino,,Mike Zunino,catcher,C,Conditional Deal,523500,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA, 8,Willie,Bloomquist,,Willie Bloomquist,infield,SS,TRADE,3000000,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA,22,Robinson,Cano,,Robinson Cano,infield,2B,DRAFT,24000000,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA, 5,Brad,Miller,,Brad Miller,infield,SS,WAIVER,527600,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA,20,Logan,Morrison,,Logan Morrison,infield,1B,TRADE,2725000,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA,15,Kyle,Seager,,Kyle Seager,infield,3B,TRADE,4500000,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA,25,Rickie,Weeks,,Rickie Weeks,infield,2B,TRADE,2000000,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA,13,Dustin,Ackley,,Dustin Ackley,outfield,LF,TRADE,2600000,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA,23,Nelson,Cruz,,Nelson Cruz,outfield,DH,TRADE,14250000,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA,16,Austin,Jackson,,Austin Jackson,outfield,CF,FA,7700000,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA, 7,Seth,Smith,,Seth Smith,outfield,RF,TRADE,6000000,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Seattle Mariners,SEA,35,Mark,Trumbo,,Mark Trumbo,outfield,RF,FA,4675409,,,,,,#0C2C56,#C0C0C0
+2015,AL,West,Texas Rangers,TEX,49,Yovani,Gallardo,,Yovani Gallardo,pitcher,SP,PURCHASE,14000000,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX,21,Chi Chi,Gonzalez,,Chi Chi Gonzalez,pitcher,RP,TRADE,354972,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX,48,Colby,Lewis,,Colby Lewis,pitcher,SP,DRAFT,4000000,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX,22,Nick,Martinez,,Nick Martinez,pitcher,SP,TRADE,515000,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX,51,Wandy,Rodriguez,,Wandy Rodriguez,pitcher,SP,FA,452035,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX,63,Anthony,Bass,,Anthony Bass,pitcher,RP,TRADE,725000,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX,47,Ross,Detwiler,,Ross Detwiler,pitcher,RP,FA,3450000,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX,36,Jon,Edwards,,Jon Edwards,pitcher,RP,TRADE,497385,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX,71,Sam,Freeman,,Sam Freeman,pitcher,RP,TRADE,399344,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX,50,Keone,Kela,,Keone Kela,pitcher,RP,WAIVER,507500,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX,44,Spencer,Patton,,Spencer Patton,pitcher,RP,FA,333442,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX,52,Tanner,Scheppers,,Tanner Scheppers,pitcher,SP,TRADE,456078,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX,37,Shawn,Tolleson,,Shawn Tolleson,pitcher,RP,TRADE,519700,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX,61,Robinson,Chirinos,,Robinson Chirinos,catcher,C,Conditional Deal,518290,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX, 3,Carlos,Corporan,,Carlos Corporan,catcher,C,TRADE,975000,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX,68,Hanser,Alberto,,Hanser Alberto,infield,SS,DRAFT,360519,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX, 1,Elvis,Andrus,,Elvis Andrus,infield,SS,WAIVER,15250000,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX,84,Prince,Fielder,,Prince Fielder,infield,1B,TRADE,24000000,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX,13,Joey,Gallo,,Joey Gallo,infield,3B,TRADE,346653,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX,18,Mitch,Moreland,,Mitch Moreland,infield,DH,TRADE,2950000,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX, 9,Adam,Rosales,,Adam Rosales,infield,SS,TRADE,900000,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX,17,Shin-Soo,Choo,,Shin-Soo Choo,outfield,RF,TRADE,14000000,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX, 7,Delino,DeShields,,Delino DeShields,outfield,LF,FA,507500,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX, 2,Leonys,Martin,,Leonys Martin,outfield,CF,TRADE,4750000,,,,,,#BD1021, #003279 
+2015,AL,West,Texas Rangers,TEX,20,Jake,Smolinski,,Jake Smolinski,outfield,LF,FA,469598,,,,,,#BD1021, #003279 
+2015,NL,East,Atlanta Braves,ATL,48,Michael,Foltynewicz,,Michael Foltynewicz,pitcher,RP,TRADE,436468,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,17,Shelby,Miller,,Shelby Miller,pitcher,SP,TRADE,535000,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,61,Williams,Perez,,Williams Perez,pitcher,RP,FA,418756,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,49,Julio,Teheran,,Julio Teheran,pitcher,SP,FA,1166666,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,40,Alex,Wood,,Alex Wood,pitcher,SP,DRAFT,520000,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,43,Luis,Avilan,,Luis Avilan,pitcher,RP,FA,530000,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,34,Trevor,Cahill,,Trevor Cahill,pitcher,SP,TRADE,5500000,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,50,Brandon,Cunniff,,Brandon Cunniff,pitcher,RP,FA,476994,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,53,Jim,Johnson,,Jim Johnson,pitcher,RP,FA,1600000,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,57,Cody,Martin,,Cody Martin,pitcher,RP,DRAFT,474221,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,51,Nick,Masset,,Nick Masset,pitcher,RP,TRADE,"382,704",,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,39,Jason,Grilli,,Jason Grilli,pitcher,RP/CL,FA,4250000,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,27,Christian,Bethancourt,,Christian Bethancourt,catcher,C,FA,507500,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,15,A.J.,Pierzynski,,A.J. Pierzynski,catcher,C,FA,"2,000,000",,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,13,Pedro,Ciriaco,,Pedro Ciriaco,infield,SS,FA,432622,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL, 5,Freddie,Freeman,,Freddie Freeman,infield,1B,DRAFT,8859375,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,23,Chris,Johnson,,Chris Johnson,infield,3B,TRADE,6000000,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL, 8,Jace,Peterson,,Jace Peterson,infield,2B,TRADE,507500,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,19,Andrelton,Simmons,,Andrelton Simmons,infield,SS,DRAFT,3142857,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL, 2,Juan,Uribe,,Juan Uribe,infield,3B,TRADE,4653005,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,26,Todd,Cunningham,,Todd Cunningham,outfield,LF,DRAFT,396571,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL, 7,Jonny,Gomes,,Jonny Gomes,outfield,LF,FA,4000000,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,22,Nick,Markakis,,Nick Markakis,outfield,RF,FA,11000000,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,25,Cameron,Maybin,,Cameron Maybin,outfield,CF,TRADE,7100000,,,,,,#002F5F,#B71234
+2015,NL,East,Atlanta Braves,ATL,28,Joey,Terdoslavich,,Joey Terdoslavich,outfield,LF,DRAFT,507500,,,,,,#002F5F,#B71234
+2015,NL,East,Miami Marlins,MIA,15,Dan,Haren,,Dan Haren,pitcher,SP,TRADE,10000000,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,34,Tom,Koehler,,Tom Koehler,pitcher,SP,DRAFT,555000,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,41,David,Phelps,,David Phelps,pitcher,SP,TRADE,1400000,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,22,Carter,Capps,,Carter Capps,pitcher,RP,TRADE,388251,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,61,Adam,Conley,,Adam Conley,pitcher,RP,,330013,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,40,Mike,Dunn,,Mike Dunn,pitcher,RP,TRADE,2350000,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,36,Sam,Dyson,,Sam Dyson,pitcher,RP,WAIVER,507500,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,63,Kendry,Flores,,Kendry Flores,pitcher,SP,,346653,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,52,Brad,Hand,,Brad Hand,pitcher,RP,DRAFT,520000,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,56,Vin,Mazzaro,,Vin Mazzaro,pitcher,RP,FA,374385,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,24,Andre,Rienzo,,Andre Rienzo,pitcher,SP,TRADE,374385,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,62,Jose,Urena,,Jose Urena,pitcher,SP,FA,385478,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,44,A.J.,Ramos,,A.J. Ramos,pitcher,RP,DRAFT,530000,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA, 6,Jeff,Mathis,,Jeff Mathis,catcher,C,TRADE,1500000,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,20,J.T.,Realmuto,,J.T. Realmuto,catcher,C,DRAFT,482540,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,10,Jeff,Baker,,Jeff Baker,infield,1B,FA,2100000,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,48,Justin,Bour,,Justin Bour,infield,2B,Rule 5DRAFT,436350,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA, 9,Dee,Gordon,,Dee Gordon,infield,2B,TRADE,2500000,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA, 3,Adeiny,Hechavarria,,Adeiny Hechavarria,infield,SS,TRADE,1925000,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,14,Martin,Prado,,Martin Prado,infield,3B,TRADE,11000000,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,17,Donovan,Solano,,Donovan Solano,infield,2B,FA,531500,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,13,Marcell,Ozuna,,Marcell Ozuna,outfield,CF,FA,545000,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,27,Giancarlo,Stanton,,Giancarlo Stanton,outfield,RF,DRAFT,6500000,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,51,Ichiro,Suzuki,,Ichiro Suzuki,outfield,RF,FA,2000000,,,,,,#F9423A,#FFD100
+2015,NL,East,Miami Marlins,MIA,21,Christian,Yelich,,Christian Yelich,outfield,LF,DRAFT,570000,,,,,,#F9423A,#FFD100
+2015,NL,East,New York Mets,NYM,40,Bartolo,Colon,,Bartolo Colon,pitcher,SP,FA,11000000,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,48,Jacob,deGrom,,Jacob deGrom,pitcher,SP,DRAFT,556875,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,33,Matt,Harvey,,Matt Harvey,pitcher,SP,DRAFT,614125,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,49,Jon,Niese,,Jon Niese,pitcher,SP,DRAFT,7050000,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,34,Noah,Syndergaard,,Noah Syndergaard,pitcher,SP,TRADE,410437,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,35,Dillon,Gee,,Dillon Gee,pitcher,SP,DRAFT,5300000,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,36,Sean,Gilmartin,,Sean Gilmartin,pitcher,RP,Rule 5DRAFT,507500,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,62,Erik,Goeddel,,Erik Goeddel,pitcher,SP,DRAFT,506342,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,51,Jack,Leathersich,,Jack Leathersich,pitcher,RP,DRAFT,402117,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,47,Hansel,Robles,,Hansel Robles,pitcher,SP,FA,465901,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,54,Alex,Torres,,Alex Torres,pitcher,RP,TRADE,522900,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,52,Carlos,Torres,,Carlos Torres,pitcher,RP,FA,582125,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,27,Jeurys,Familia,,Jeurys Familia,pitcher,RP,FA,523925,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,22,Kevin,Plawecki,,Kevin Plawecki,catcher,C,DRAFT,465901,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,20,Anthony,Recker,,Anthony Recker,catcher,C,WAIVER,517880,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,29,Eric,Campbell,,Eric Campbell,infield,1B,DRAFT,449625,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,21,Lucas,Duda,,Lucas Duda,infield,1B,DRAFT,4200000,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM, 4,Wilmer,Flores,,Wilmer Flores,infield,SS,FA,513543,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,16,Danny,Muno,,Daniel Muno,infield,2B,DRAFT,396571,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,11,Ruben,Tejada,,Ruben Tejada,infield,SS,FA,1880000,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM, 1,Darrell,Ceciliani,,Darrell Ceciliani,outfield,CF,DRAFT,382704,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,23,Michael,Cuddyer,,Michael Cuddyer,outfield,LF,FA,8500000,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM, 3,Curtis,Granderson,,Curtis Granderson,outfield,RF,FA,16000000,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,12,Juan,Lagares,,Juan Lagares,outfield,CF,FA,553696,,,,,,#002C77,#FB4F14
+2015,NL,East,New York Mets,NYM,44,John,Mayberry,Jr.,John Mayberry,outfield,RF,FA,1450000,,,,,,#002C77,#FB4F14
+2015,NL,East,Philadelphia Phillies,PHI,28,Kevin,Correia,,Kevin Correia,pitcher,SP,#N/A,650000,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI,35,Cole,Hamels,,Cole Hamels,pitcher,SP,DRAFT,23500000,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI,34,Aaron,Harang,,Aaron Harang,pitcher,SP,FA,5000000,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI,47,Sean,O'Sullivan,,Sean O'Sullivan,pitcher,SP,FA,493633,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI,31,Jerome,Williams,,Jerome Williams,pitcher,SP,WAIVER,2500000,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI,59,Elvis,Araujo,,Elvis Araujo,pitcher,RP,FA,432622,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI,30,Justin,De Fratus,,Justin De Fratus,pitcher,RP,DRAFT,528000,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI,57,Luis,Garcia,,Luis Garcia,pitcher,RP,FA,509000,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI,53,Ken,Giles,,Ken Giles,pitcher,RP,DRAFT,519000,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI,46,Jeanmar,Gomez,,Jeanmar Gomez,pitcher,RP,FA,800000,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI,40,Dustin,McGowan,,Dustin McGowan,pitcher,RP,FA,399999,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI,58,Jonathan,Papelbon,,Jonathan Papelbon,pitcher,RP/CL,FA,13000000,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI,51,Carlos,Ruiz,,Carlos Ruiz,catcher,C,FA,8500000,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI,29,Cameron,Rupp,,Cameron Rupp,catcher,C,DRAFT,508000,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI, 4,Andres,Blanco,,Andres Blanco,infield,SS,FA,850000,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI, 7,Maikel,Franco,,Maikel Franco,infield,3B,FA,393797,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI,13,Freddy,Galvis,,Freddy Galvis,infield,SS,FA,513500,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI,16,Cesar,Hernandez,,Cesar Hernandez,infield,2B,FA,510000,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI, 6,Ryan,Howard,,Ryan Howard,infield,1B,DRAFT,25000000,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI,18,Darin,Ruf,,Darin Ruf,infield,LF,DRAFT,515000,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI,26,Chase,Utley,,Chase Utley,infield,2B,DRAFT,15000000,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI,25,Cody,Asche,,Cody Asche,outfield,3B,DRAFT,466598,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI, 3,Jeff,Francoeur,,Jeff Francoeur,outfield,RF,FA,925000,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI,37,Odubel,Herrera,,Odubel Herrera,outfield,CF,Rule 5DRAFT,507500,,,,,,#BA0C2F,#003087
+2015,NL,East,Philadelphia Phillies,PHI, 2,Ben,Revere,,Ben Revere,outfield,LF,TRADE,4100000,,,,,,#BA0C2F,#003087
+2015,NL,East,Washington Nationals,WSH,47,Gio,Gonzalez,,Gio Gonzalez,pitcher,SP,TRADE,11100000,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH,57,Tanner,Roark,,Tanner Roark,pitcher,RP,TRADE,529600,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH,41,Joe,Ross,,Joe Ross,pitcher,RP,,335560,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH,31,Max,Scherzer,,Max Scherzer,pitcher,SP,FA,17142857,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH,27,Jordan,Zimmermann,,Jordan Zimmermann,pitcher,SP,DRAFT,16500000,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH,30,Aaron,Barrett,,Aaron Barrett,pitcher,RP,DRAFT,514200,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH,55,Taylor,Hill,,Taylor Hill,pitcher,SP,DRAFT,354972,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH,44,Casey,Janssen,,Casey Janssen,pitcher,CL,FA,"3,500,000",,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH,73,Felipe,Rivero,,Felipe Rivero,pitcher,SP,TRADE,421530,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH,46,Matt,Thornton,,Matt Thornton,pitcher,RP,WAIVER,3500000,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH,64,Blake,Treinen,,Blake Treinen,pitcher,RP,TRADE,512800,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH,22,Drew,Storen,,Drew Storen,pitcher,RP/CL,DRAFT,5700000,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH,59,Jose,Lobaton,,Jose Lobaton,catcher,C,TRADE,1200000,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH,40,Wilson,Ramos,,Wilson Ramos,catcher,C,TRADE,3550000,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH,20,Ian,Desmond,,Ian Desmond,infield,SS,DRAFT,11000000,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH, 5,Yunel,Escobar,,Yunel Escobar,infield,SS,TRADE,5000000,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH, 8,Danny,Espinosa,,Danny Espinosa,infield,2B,DRAFT,1800000,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH, 6,Anthony,Rendon,,Anthony Rendon,infield,3B,DRAFT,2500000,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH,25,Clint,Robinson,,Clint Robinson,infield,1B,FA,525000,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH,26,Dan,Uggla,,Dan Uggla,infield,2B,FA,507500,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH,11,Ryan,Zimmerman,,Ryan Zimmerman,infield,1B,DRAFT,14000000,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH,34,Bryce,Harper,,Bryce Harper,outfield,RF,DRAFT,2500000,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH,12,Tyler,Moore,,Tyler Moore,outfield,LF,DRAFT,518200,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH, 2,Denard,Span,,Denard Span,outfield,CF,TRADE,9000000,,,,,,#BA122B,#11225B
+2015,NL,East,Washington Nationals,WSH, 3,Michael,Taylor,,Michael Taylor,outfield,CF,DRAFT,478122,,,,,,#BA122B,#11225B
+2015,NL,Central,Chicago Cubs,CHC,49,Jake,Arrieta,,Jake Arrieta,pitcher,SP,TRADE,3630000,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,39,Jason,Hammel,,Jason Hammel,pitcher,SP,FA,9000000,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,28,Kyle,Hendricks,,Kyle Hendricks,pitcher,SP,TRADE,510000,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,34,Jon,Lester,,Jon Lester,pitcher,SP,FA,20000000,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,18,Tsuyoshi,Wada,,Tsuyoshi Wada,pitcher,SP,TRADE,4000000,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,52,Justin,Grimm,,Justin Grimm,pitcher,RP,TRADE,531500,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,36,Edwin,Jackson,,Edwin Jackson,pitcher,RP,FA,13000000,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,30,Jason,Motte,,Jason Motte,pitcher,RP,FA,4500000,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,59,Zac,Rosscup,,Zac Rosscup,pitcher,RP,TRADE,482603,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,40,James,Russell,,James Russell,pitcher,RP,TRADE,421530,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,46,Pedro,Strop,,Pedro Strop,pitcher,RP,TRADE,2525000,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,37,Travis,Wood,,Travis Wood,pitcher,SP,TRADE,5685000,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,56,Hector,Rondon,,Hector Rondon,pitcher,RP/CL,Rule 5DRAFT,544000,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,47,Miguel,Montero,,Miguel Montero,catcher,C,DRAFT,12000000,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC, 3,David,Ross,,David Ross,catcher,C,FA,2500000,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,17,Kris,Bryant,,Kris Bryant,infield,3B,DRAFT,471448,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,13,Starlin,Castro,,Starlin Castro,infield,SS,TRADE,6857142,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,19,Jonathan,Herrera,,Jonathan Herrera,infield,SS,FA,900000,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,44,Anthony,Rizzo,,Anthony Rizzo,infield,1B,TRADE,5285714,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,22,Addison,Russell,,Addison Russell,infield,SS,TRADE,460355,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,33,Mike,Baxter,,Mike Baxter,outfield,LF,TRADE,385478,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC, 8,Chris,Coghlan,,Chris Coghlan,outfield,LF,WAIVER,2505000,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,24,Dexter,Fowler,,Dexter Fowler,outfield,CF,FA,9500000,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,21,Junior,Lake,,Junior Lake,outfield,LF,FA,420918,,,,,,#003279,#CC0033
+2015,NL,Central,Chicago Cubs,CHC,68,Jorge,Soler,,Jorge Soler,outfield,CF,FA,"2,666,667",,,,,,#003279,#CC0033
+2015,NL,Central,Cincinnati Reds,CIN,47,Johnny,Cueto,,Johnny Cueto,pitcher,SP,FA,10000000,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,28,Anthony,DeSclafani,,Anthony DeSclafani,pitcher,SP,TRADE,507500,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,44,Mike,Leake,,Mike Leake,pitcher,SP,DRAFT,9775000,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,50,Michael,Lorenzen,,Michael Lorenzen,pitcher,RP,DRAFT,438169,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,46,Jon,Moscot,,Jon Moscot,pitcher,RP,DRAFT,338333,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,58,Nate,Adcock,,Nate Adcock,pitcher,RP,FA,332786,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,25,Burke,Badenhop,,Burke Badenhop,pitcher,RP,FA,1000000,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,52,Tony,Cingrani,,Tony Cingrani,pitcher,RP,DRAFT,525500,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,60,J.J.,Hoover,,J.J. Hoover,pitcher,RP,TRADE,535000,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,41,Ryan,Mattheus,,Ryan Mattheus,pitcher,RP,WAIVER,"413,210",,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,43,Manny,Parra,,Manny Parra,pitcher,RP,FA,3500000,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,62,Pedro,Villarreal,,Pedro Villarreal,pitcher,RP,DRAFT,352199,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,54,Aroldis,Chapman,,Aroldis Chapman,pitcher,RP/CL,FA,8050000,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,16,Tucker,Barnhart,,Tucker Barnhart,catcher,C,DRAFT,471448,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,29,Brayan,Pena,,Brayan Pena,catcher,C,FA,1400000,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN, 2,Zack,Cozart,,Zack Cozart,infield,SS,DRAFT,2350000,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN, 3,Ivan,De Jesus,Jr.,Ivan DeJesus,infield,2B,FA,"343,879",,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,21,Todd,Frazier,,Todd Frazier,infield,3B,DRAFT,3750000,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,17,Kristopher,Negron,,Kristopher Negron,infield,SS,FA,512500,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN, 4,Brandon,Phillips,,Brandon Phillips,infield,2B,TRADE,12000000,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,19,Joey,Votto,,Joey Votto,infield,1B,DRAFT,14000000,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,27,Brennan,Boesch,,Brennan Boesch,outfield,RF,FA,1250000,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,32,Jay,Bruce,,Jay Bruce,outfield,RF,DRAFT,12041666,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN, 6,Billy,Hamilton,,Billy Hamilton,outfield,CF,DRAFT,545000,,,,,,#C6011F,#000000
+2015,NL,Central,Cincinnati Reds,CIN,55,Skip,Schumaker,,Skip Schumaker,outfield,2B,FA,2500000,,,,,,#C6011F,#000000
+2015,NL,Central,Milwaukee Brewers,MIL,50,Mike,Fiers,,Mike Fiers,pitcher,SP,DRAFT,512500,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,22,Matt,Garza,,Matt Garza,pitcher,SP,FA,12500000,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,26,Kyle,Lohse,,Kyle Lohse,pitcher,SP,FA,11000000,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,52,Jimmy,Nelson,,Jimmy Nelson,pitcher,SP,DRAFT,511500,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,54,Michael,Blazek,,Michael Blazek,pitcher,RP,TRADE,508500,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,51,Jonathan,Broxton,,Jonathan Broxton,pitcher,RP,TRADE,9000000,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,48,Neal,Cotts,,Neal Cotts,pitcher,RP,FA,3000000,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,32,David,Goforth,,David Goforth,pitcher,RP,DRAFT,366065,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,21,Jeremy,Jeffress,,Jeremy Jeffress,pitcher,RP,FA,510500,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,46,Corey,Knebel,,Corey Knebel,pitcher,SP,TRADE,385478,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,13,Will,Smith,,Will Smith,pitcher,RP,TRADE,512500,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,57,Francisco,Rodriguez,,Francisco Rodriguez,pitcher,RP/CL,FA,3500000,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,20,Jonathan,Lucroy,,Jonathan Lucroy,catcher,C,DRAFT,3400000,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,12,Martin,Maldonado,,Martin Maldonado,catcher,C,FA,825000,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL, 5,Hector,Gomez,,Hector Gomez,infield,SS,WAIVER,507500,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,24,Adam,Lind,,Adam Lind,infield,1B,TRADE,7500000,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,14,Hernan,Perez,,Hernan Perez,infield,2B,WAIVER,508500,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,16,Aramis,Ramirez,,Aramis Ramirez,infield,3B,FA,14000000,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,15,Jason,Rogers,,Jason Rogers,infield,1B,DRAFT,471448,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,10,Luis,Sardinas,,Luis Sardinas,infield,SS,TRADE,396571,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL, 9,Jean,Segura,,Jean Segura,infield,SS,TRADE,534000,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL, 8,Ryan,Braun,,Ryan Braun,outfield,RF,DRAFT,13000000,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,27,Carlos,Gomez,,Carlos Gomez,outfield,CF,TRADE,8000000,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,28,Gerardo,Parra,,Gerardo Parra,outfield,RF,TRADE,6237500,,,,,,#182B49,#92754C
+2015,NL,Central,Milwaukee Brewers,MIL,35,Shane,Peterson,,Shane Peterson,outfield,LF,WAIVER,343879,,,,,,#182B49,#92754C
+2015,NL,Central,Pittsburgh Pirates,PIT,34,A.J.,Burnett,,A.J. Burnett,pitcher,SP,FA,8500000,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,45,Gerrit,Cole,,Gerrit Cole,pitcher,SP,DRAFT,531000,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,47,Francisco,Liriano,,Francisco Liriano,pitcher,SP,FA,11666666,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,49,Jeff,Locke,,Jeff Locke,pitcher,SP,TRADE,531000,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,50,Charlie,Morton,,Charlie Morton,pitcher,SP,TRADE,8000000,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,59,Antonio,Bastardo,,Antonio Bastardo,pitcher,RP,TRADE,3100000,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,37,Arquimedes,Caminero,,Arquimedes Caminero,pitcher,RP,PURCHASE,515500,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,48,Jared,Hughes,,Jared Hughes,pitcher,RP,DRAFT,1075000,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,52,Rob,Scahill,,Rob Scahill,pitcher,RP,TRADE,0,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,44,Tony,Watson,,Tony Watson,pitcher,RP,DRAFT,1750000,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,46,Vance,Worley,,Vance Worley,pitcher,SP,PURCHASE,2450000,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,35,Mark,Melancon,,Mark Melancon,pitcher,RP/CL,TRADE,5400000,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,29,Francisco,Cervelli,,Francisco Cervelli,catcher,C,TRADE,987500,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,19,Chris,Stewart,,Chris Stewart,catcher,C,TRADE,1225000,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,24,Pedro,Alvarez,,Pedro Alvarez,infield,1B,DRAFT,5750000,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT, 5,Josh,Harrison,,Josh Harrison,infield,3B,TRADE,3050000,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,12,Corey,Hart,,Corey Hart,infield,RF,FA,2500000,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,27,Jeong-ho,Kang,,Jung Ho Kang,infield,SS,FA,2500000,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,10,Jordy,Mercer,,Jordy Mercer,infield,SS,DRAFT,538000,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT, 3,Sean,Rodriguez,,Sean Rodriguez,infield,2B,TRADE,1900000,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,18,Neil,Walker,,Neil Walker,infield,2B,DRAFT,8000000,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT, 6,Starling,Marte,,Starling Marte,outfield,LF,FA,1333333,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,22,Andrew,McCutchen,,Andrew McCutchen,outfield,CF,DRAFT,10208333,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,25,Gregory,Polanco,,Gregory Polanco,outfield,RF,FA,525000,,,,,,#000000,#fdb829
+2015,NL,Central,Pittsburgh Pirates,PIT,31,Jose,Tabata,,Jose Tabata,outfield,RF,TRADE,4166667,,,,,,#000000,#fdb829
+2015,NL,Central,St. Louis Cardinals,STL,54,Jaime,Garcia,,Jaime Garcia,pitcher,SP,DRAFT,9375000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,41,John,Lackey,,John Lackey,pitcher,SP,TRADE,507500,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,31,Lance,Lynn,,Lance Lynn,pitcher,SP,DRAFT,7000000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,18,Carlos,Martinez,,Carlos Martinez,pitcher,SP,FA,520000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,52,Michael,Wacha,,Michael Wacha,pitcher,SP,DRAFT,520000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,37,Matt,Belisle,,Matt Belisle,pitcher,RP,FA,3500000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,36,Randy,Choate,,Randy Choate,pitcher,RP,FA,3000000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,40,Mitch,Harris,,Mitch Harris,pitcher,RP,DRAFT,460355,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,61,Seth,Maness,,Seth Maness,pitcher,RP,DRAFT,530000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,46,Kevin,Siegrist,,Kevin Siegrist,pitcher,RP,DRAFT,518000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,33,Carlos,Villanueva,,Carlos Villanueva,pitcher,RP,FA,2000000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,44,Trevor,Rosenthal,,Trevor Rosenthal,pitcher,RP/CL,DRAFT,535000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,48,Tony,Cruz,,Tony Cruz,catcher,C,DRAFT,775000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,23,Ed,Easley,,Ed Easley,catcher,C,FA,368838,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL, 4,Yadier,Molina,,Yadier Molina,catcher,C,DRAFT,15200000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,13,Matt,Carpenter,,Matt Carpenter,infield,3B,DRAFT,3750000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,38,Pete,Kozma,,Pete Kozma,infield,SS,DRAFT,522000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,27,Jhonny,Peralta,,Jhonny Peralta,infield,SS,FA,15000000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,12,Mark,Reynolds,,Mark Reynolds,infield,1B,FA,2000000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,16,Kolten,Wong,,Kolten Wong,infield,2B,DRAFT,520000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL, 8,Peter,Bourjos,,Peter Bourjos,outfield,CF,TRADE,1650000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,15,Randal,Grichuk,,Randal Grichuk,outfield,LF,TRADE,510000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,22,Jason,Heyward,,Jason Heyward,outfield,RF,TRADE,8300000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL, 7,Matt,Holliday,,Matt Holliday,outfield,LF,FA,17000000,,,,,,#c41e3a,#0A2252
+2015,NL,Central,St. Louis Cardinals,STL,19,Jon,Jay,,Jon Jay,outfield,CF,DRAFT,4125000,,,,,,#c41e3a,#0A2252
+2015,NL,West,Arizona Diamondbacks,ARI,57,Chase,Anderson,,Chase Anderson,pitcher,SP,DRAFT,512500,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI,55,Josh,Collmenter,,Josh Collmenter,pitcher,SP,DRAFT,1450000,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI,12,Rubby,De La Rosa,,Rubby De La Rosa,pitcher,SP,TRADE,516000,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI,58,Jeremy,Hellickson,,Jeremy Hellickson,pitcher,SP,TRADE,4275000,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI,40,Andrew,Chafin,,Andrew Chafin,pitcher,RP,DRAFT,507500,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI,48,Randall,Delgado,,Randall Delgado,pitcher,RP,TRADE,526000,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI,30,David,Hernandez,,David Hernandez,pitcher,RP,TRADE,2000000,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI,41,Daniel,Hudson,,Daniel Hudson,pitcher,RP,FA,800000,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI,59,Oliver,Perez,,Oliver Perez,pitcher,RP,FA,2500000,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI,56,J.C.,Ramirez,,J.C. Ramirez,pitcher,RP,FA,"407,663",,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI,38,Robbie,Ray,,Robbie Ray,pitcher,SP,TRADE,344557,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI,29,Brad,Ziegler,,Brad Ziegler,pitcher,RP,TRADE,5000000,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI,43,Addison,Reed,,Addison Reed,pitcher,RP/CL,,4875000,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI,7,Welington,Castillo,,Welington Castillo,catcher,C,TRADE,1422950,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI, 8,Jarrod,Saltalamacchia,,Jarrod Saltalamacchia,catcher,C,FA,415983,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI,13,Nick,Ahmed,,Nick Ahmed,infield,SS,TRADE,508500,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI,44,Paul,Goldschmidt,,Paul Goldschmidt,infield,1B,DRAFT,3083333,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI, 2,Aaron,Hill,,Aaron Hill,infield,2B,FA,12000000,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI,19,Jake,Lamb,,Jake Lamb,infield,3B,DRAFT,508500,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI,16,Chris,Owings,,Chris Owings,infield,2B,DRAFT,512500,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI, 4,Cliff,Pennington,,Cliff Pennington,infield,SS,TRADE,3275000,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI,24,Yasmany,Tomas,,Yasmany Tomas,infield,3B,FA,5379781,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI, 5,Ender,Inciarte,,Ender Inciarte,outfield,RF,FA,513000,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI, 6,David,Peralta,,David Peralta,outfield,LF,FA,512000,,,,,,#A71930,#DBCEAC
+2015,NL,West,Arizona Diamondbacks,ARI,11,A.J.,Pollock,,A.J. Pollock,outfield,CF,DRAFT,"519,500",,,,,,#A71930,#DBCEAC
+2015,NL,West,Colorado Rockies,COL,35,Chad,Bettis,,Chad Bettis,pitcher,RP,DRAFT,396571,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL,31,Eddie,Butler,,Eddie Butler,pitcher,SP,DRAFT,509500,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL,29,Jorge,de la Rosa,,Jorge de la Rosa,pitcher,SP,FA,12500000,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL,61,David,Hale,,David Hale,pitcher,RP,TRADE,338866,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL,38,Kyle,Kendrick,,Kyle Kendrick,pitcher,SP,FA,5500000,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL,52,Chris,Rusin,,Chris Rusin,pitcher,RP,WAIVER,368838,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL,36,Christian,Bergman,,Christian Bergman,pitcher,SP,DRAFT,509500,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL,51,Brooks,Brown,,Brooks Brown,pitcher,RP,FA,509500,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL,53,Christian,Friedrich,,Christian Friedrich,pitcher,RP,DRAFT,512500,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL,54,Tommy,Kahnle,,Tommy Kahnle,pitcher,RP,Rule 5DRAFT,349426,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL,48,Boone,Logan,,Boone Logan,pitcher,RP,FA,5500000,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL,45,Scott,Oberg,,Scott Oberg,pitcher,RP,DRAFT,488087,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL,66,John,Axford,,John Axford,pitcher,RP,FA,2600000,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL,4,Nick,Hundley,,Nick Hundley,catcher,C,FA,3100000,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL, 8,Michael,McKenry,,Michael McKenry,catcher,C,FA,1087600,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL,20,Wilin,Rosario,,Wilin Rosario,catcher,C,FA,2800000,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL,28,Nolan,Arenado,,Nolan Arenado,infield,3B,DRAFT,512500,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL, 3,Daniel,Descalso,,Daniel Descalso,infield,SS,FA,1500000,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL, 9,D.J.,Le Mahieu,,D.J. LeMahieu,infield,2B,TRADE,517500,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL,10,Ben,Paulsen,,Ben Paulsen,infield,1B,DRAFT,385478,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL, 2,Troy,Tulowitzki,,Troy Tulowitzki,infield,SS,DRAFT,20000000,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL,43,Rafael,Ynoa,,Rafael Ynoa,infield,2B,FA,506715,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL, 1,Brandon,Barnes,,Brandon Barnes,outfield,CF,TRADE,382704,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL,19,Charlie,Blackmon,,Charlie Blackmon,outfield,CF,DRAFT,517500,,,,,,#333366,#C0C0C0
+2015,NL,West,Colorado Rockies,COL, 5,Carlos,Gonzalez,,Carlos Gonzalez,outfield,RF,TRADE,16428571,,,,,,#333366,#C0C0C0
+2015,NL,West,Los Angeles Dodgers,LAD,35,Brett,Anderson,,Brett Anderson,pitcher,SP,FA,10000000,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,46,Mike,Bolsinger,,Mike Bolsinger,pitcher,SP,PURCHASE,404890,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,77,Carlos,Frias,,Carlos Frias,pitcher,SP,FA,449262,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,21,Zack,Greinke,,Zack Greinke,pitcher,SP,FA,25000000,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,22,Clayton,Kershaw,,Clayton Kershaw,pitcher,SP,DRAFT,32571428,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,63,Yimi,García,,Yimi Garcia,pitcher,RP,FA,510000,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,41,Chris,Hatcher,,Chris Hatcher,pitcher,RP,TRADE,522500,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,56,J.P.,Howell,,J.P. Howell,pitcher,RP,FA,5500000,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,36,Adam,Liberatore,,Adam Liberatore,pitcher,RP,TRADE,460355,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,12,Juan,Nicasio,,Juan Nicasio,pitcher,RP,TRADE,2300000,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,71,Josh,Ravin,,Josh Ravin,pitcher,RP,FA,346653,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,74,Kenley,Jansen,,Kenley Jansen,pitcher,CL,FA,7425000,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,17,A.J.,Ellis,,A.J. Ellis,catcher,C,DRAFT,4250000,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD, 9,Yasmani,Grandal,,Yasmani Grandal,catcher,C,TRADE,693000,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD, 5,Alberto,Callaspo,,Alberto Callaspo,infield,3B,TRADE,2147540,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,23,Adrian,Gonzalez,,Adrian Gonzalez,infield,1B,TRADE,21857142,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD, 7,Alex,Guerrero,,Alex Guerrero,infield,2B,FA,9850000,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,14,Enrique,Hernández,,Enrique Hernandez,infield,2B,TRADE,2500000,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,47,Howie,Kendrick,,Howie Kendrick,infield,2B,TRADE,9850000,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,11,Jimmy,Rollins,,Jimmy Rollins,infield,SS,TRADE,11000000,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,10,Justin,Turner,,Justin Turner,infield,2B,FA,2500000,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,16,Andre,Ethier,,Andre Ethier,outfield,RF,TRADE,18000000,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,28,Chris,Heisey,,Chris Heisey,outfield,LF,TRADE,1558032,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,31,Joc,Pederson,,Joc Pederson,outfield,CF,DRAFT,510000,,,,,,#083C6B,#ffffff
+2015,NL,West,Los Angeles Dodgers,LAD,66,Yasiel,Puig,,Yasiel Puig,outfield,CF,FA,6214285,,,,,,#083C6B,#ffffff
+2015,NL,West,San Diego Padres,SD,34,Andrew,Cashner,,Andrew Cashner,pitcher,SP,TRADE,4050000,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,22,Ian,Kennedy,,Ian Kennedy,pitcher,SP,TRADE,9850000,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,38,Tyson,Ross,,Tyson Ross,pitcher,SP,TRADE,5250000,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,33,James,Shields,,James Shields,pitcher,SP,FA,10000000,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,53,Joaquin,Benoit,,Joaquin Benoit,pitcher,RP,FA,8000000,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,40,Odrisamer,Despaigne,,Odrisamer Despaigne,pitcher,RP,FA,517300,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,60,Frank,Garces,,Frank Garces,pitcher,RP,FA,439032,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,56,Shawn,Kelley,,Shawn Kelley,pitcher,RP,TRADE,2835000,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,37,Brandon,Maurer,,Brandon Maurer,pitcher,RP,TRADE,504819,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,59,Kevin,Quackenbush,,Kevin Quackenbush,pitcher,RP,DRAFT,458448,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,44,Dale,Thayer,,Dale Thayer,pitcher,RP,FA,1375000,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,46,Craig,Kimbrel,,Craig Kimbrel,pitcher,RP/CL,TRADE,9250000,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,18,Austin,Hedges,,Austin Hedges,catcher,C,DRAFT,424303,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD, 3,Derek,Norris,,Derek Norris,catcher,C,TRADE,545000,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,23,Yonder,Alonso,,Yonder Alonso,infield,1B,TRADE,1650000,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD, 5,Alexi,Amarista,,Alexi Amarista,infield,SS,TRADE,1150000,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,12,Clint,Barmes,,Clint Barmes,infield,SS,FA,1300000,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD, 9,Jedd,Gyorko,,Jedd Gyorko,infield,2B,DRAFT,2000000,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,11,Will,Middlebrooks,,Will Middlebrooks,infield,3B,TRADE,540500,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,26,Yangervis,Solarte,,Yangervis Solarte,infield,2B,TRADE,516400,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,15,Cory,Spangenberg,,Cory Spangenberg,infield,2B,DRAFT,508500,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,27,Matt,Kemp,,Matt Kemp,outfield,RF,TRADE,21250000,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,10,Justin,Upton,,Justin Upton,outfield,LF,TRADE,14708333,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD, 2,Melvin,"Upton,",Jr.,Melvin Upton,outfield,CF,TRADE,15050000,,,,,,#002147,#B4A76C
+2015,NL,West,San Diego Padres,SD,25,Will,Venable,,Will Venable,outfield,CF,DRAFT,4250000,,,,,,#002147,#B4A76C
+2015,NL,West,San Francisco Giants,SF,40,Madison,Bumgarner,,Madison Bumgarner,pitcher,SP,DRAFT,6950000,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,53,Chris,Heston,,Chris Heston,pitcher,SP,DRAFT,504726,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,17,Tim,Hudson,,Tim Hudson,pitcher,SP,FA,12000000,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,55,Tim,Lincecum,,Tim Lincecum,pitcher,SP,DRAFT,18000000,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,32,Ryan,Vogelsong,,Ryan Vogelsong,pitcher,RP,FA,4000000,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,41,Jeremy,Affeldt,,Jeremy Affeldt,pitcher,RP,FA,6000000,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,70,George,Kontos,,George Kontos,pitcher,RP,TRADE,517500,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,49,Javier,Lopez,,Javier Lopez,pitcher,RP,FA,4000000,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,52,Yusmeiro,Petit,,Yusmeiro Petit,pitcher,RP,FA,2100000,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,54,Sergio,Romo,,Sergio Romo,pitcher,RP,FA,6000000,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,60,Hunter,Strickland,,Hunter Strickland,pitcher,SP,WAIVER,374385,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,46,Santiago,Casilla,,Santiago Casilla,pitcher,RP/CL,FA,5000000,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,28,Buster,Posey,,Buster Posey,catcher,C,DRAFT,17277777,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,34,Andrew,Susac,,Andrew Susac,catcher,C,DRAFT,468674,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,13,Joaquin,Arias,,Joaquin Arias,infield,SS,FA,1450000,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF, 9,Brandon,Belt,,Brandon Belt,infield,1B,DRAFT,3600000,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,35,Brandon,Crawford,,Brandon Crawford,infield,SS,DRAFT,3175000,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF, 5,Matt,Duffy,,Matt Duffy,infield,SS,DRAFT,509000,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,14,Casey,McGehee,,Casey McGehee,infield,3B,TRADE,4800000,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,12,Joe,Panik,,Joe Panik,infield,2B,DRAFT,522500,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,23,Norichika,Aoki,,Nori Aoki,outfield,LF,FA,4000000,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF, 7,Gregor,Blanco,,Gregor Blanco,outfield,RF,FA,3600000,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,43,Justin,Maxwell,,Justin Maxwell,outfield,LF,FA,1000000,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF,16,Angel,Pagan,,Angel Pagan,outfield,CF,FA,10250000,,,,,,#000000,#F2552C
+2015,NL,West,San Francisco Giants,SF, 8,Hunter,Pence,,Hunter Pence,outfield,RF,TRADE,18500000,,,,,,#000000,#F2552C

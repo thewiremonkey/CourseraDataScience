@@ -1,0 +1,33 @@
+[{
+    type: 'Feature',
+    "geometry": { "type": "Point", "coordinates": [-87.670907, 41.943623]},
+    "properties": {
+        'stop_name': 'Paulina',
+        'marker-color': '#3c4e5a',
+        'marker-symbol': 'monument',
+        'marker-size': 'large',
+
+        // Store the image url and caption in an array.
+        'images': [
+          ['http://www.transitchicago.com/assets/1/public_art/paulina-1.jpg' ,'Transitions comprises a suspended sculpture and a mosaic, which form an artistic dialogue. “Transitions is intended to mirror the fluid, ephemeral, high-energy cellular neighborhoods of the city and the connections and intersections between them, which public transportation facilitates…(it) references not only passage to different physical places, but also to other states of being and points in time.” -Barbara Cooper', 'Barbara Cooper'],
+          ['http://www.transitchicago.com/assets/1/public_art/paulina-1.jpg' ,'Transitions comprises a suspended sculpture and a mosaic, which form an artistic dialogue. “Transitions is intended to mirror the fluid, ephemeral, high-energy cellular neighborhoods of the city and the connections and intersections between them, which public transportation facilitates…(it) references not only passage to different physical places, but also to other states of being and points in time.” -Barbara Cooper', 'Barbara Cooper']
+     
+    }
+}, {
+    type: 'Feature',
+    "geometry": { "type": "Point", "coordinates": [-74.00, 40.71]},
+    "properties": {
+        'stop_name': 'Belmont',
+        'marker-color': '#3c4e5a',
+        'marker-symbol': 'city',
+        'marker-size': 'large',
+        'images': [
+          ['http://www.transitchicago.com/assets/1/public_art/belmont-brown-3.jpg','Jerald Jacquard’s sculpture,  Space Junction of Energy , is a paradox; an abstract sculpture that describes the specific  event of mass passing through space. The artist’s intention is to energize the viewer’s mind through perception of the  ever-shifting composition of geometric forms. Formal yet animated, the sculpture is an arrangement of hollow geometric  shapes constructed of cut and welded sheet steel. A visual blanket of orange paint unifies the variable components and  emphasizes the internal balance and harmony of this dynamic composition',
+Jerald Jacquard],
+          ['http://www.transitchicago.com/assets/1/public_art/belmont-brown-2.jpg','Jerald Jacquard’s sculpture,  Space Junction of Energy , is a paradox; an abstract sculpture that describes the specific  event of mass passing through space. The artist’s intention is to energize the viewer’s mind through perception of the  ever-shifting composition of geometric forms. Formal yet animated, the sculpture is an arrangement of hollow geometric  shapes constructed of cut and welded sheet steel. A visual blanket of orange paint unifies the variable components and  emphasizes the internal balance and harmony of this dynamic composition',
+Jerald Jacquard],
+          ['http://www.transitchicago.com/assets/1/public_art/belmont-brown-1.jpg','Jerald Jacquard’s sculpture,  Space Junction of Energy , is a paradox; an abstract sculpture that describes the specific  event of mass passing through space. The artist’s intention is to energize the viewer’s mind through perception of the  ever-shifting composition of geometric forms. Formal yet animated, the sculpture is an arrangement of hollow geometric  shapes constructed of cut and welded sheet steel. A visual blanket of orange paint unifies the variable components and  emphasizes the internal balance and harmony of this dynamic composition',
+Jerald Jacquard]
+
+    }
+}]
